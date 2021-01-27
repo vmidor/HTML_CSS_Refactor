@@ -3,11 +3,12 @@
 
 
 In Index.html file was able to identify a broken code in "content" class. It was missing "id" description, causing an issue when clicking the button. Please see example below:
-div class="content-name"
+
+# div class="content-name"
 
           CORRECT version:
 
-div id="search-engine-optimization" class="content-name"
+# div id="search-engine-optimization" class="content-name"
 
 
 CSS file: in this cascading style sheets we will find how we can use as less criterias to apply to as many blocks.
